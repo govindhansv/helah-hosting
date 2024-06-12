@@ -9,6 +9,8 @@ lerna-debug.log*
 
 node_modules
 dist
+public
+
 dist-ssr
 *.local
 
@@ -25,5 +27,3 @@ dist-ssr
 
 # Environment file
 .env
-
-public
